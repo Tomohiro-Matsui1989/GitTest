@@ -12,6 +12,10 @@ public class Hello {
     	System.out.println("matsuisensei");
       	System.out.println("todasensei");
     	System.out.println("matsuisensei");
+    	System.out.println("todasensei");
+    	System.out.println("matsuisensei");
+      	System.out.println("todasensei");
+    	System.out.println("matsuisensei");
     }
 }
 
